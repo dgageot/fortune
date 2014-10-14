@@ -1,0 +1,29 @@
+##
+## Cowth Ninja, from david@gageot.net
+##
+$the_cow = <<EOC;
+        $thoughts                  .`
+         $thoughts                hMNs  `-:
+          $thoughts.:://+++//:-.``:MMd`:yNMN.
+            `-+ydmMMMMMMMMMMMMMMNmNMMhNMMMMNy
+         `:ymMMMMMMMMMMMMMMMMMMMMMMMMMMMMy/.
+        /dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy.
+      `yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN+
+     `dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo
+     yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:
+    -MMMMMMMMMNmddddddddddddddddddmmMMMMMMMMMd
+    +dddddddh+-.`                 `.:odddddddd.
+ :hhdddddddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddddddhho
+ `:oNMd/so-----------oMMmdNMM:----------:ss:MMd/.
+    oMh+My     :+-o. /Md``/MM  //:o`     MM.MM`
+    /Mh+Mh     +NNm: /Mh  .MM  sNNm.    `MM.MM
+    /Mh+MNo`    ..`  /Mh  `MM   ..`    .hMM.MM
+    -NN+yyyo:.......-hM+-:.dMo-......-+syyssMh
+     :yddddddddddddddhoyNMmoshdddddddddddddho`
+      ohhhhhhhhhhhhhhmNMMMMMmdhhhhhhhhhhhhhh-
+       oNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm:
+        .yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo`
+          .+hNMMMMMMMMMMMMMMMMMMMMMMMmy:`
+             `-+shmNMMMMMMMMMMMNdhs/.`
+                    `.------.``
+EOC

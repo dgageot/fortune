@@ -17,6 +17,34 @@ RUN apt-get update && apt-get install -y \
 
 ENV PATH $PATH:/usr/games
 
-# Set RUN prefix command
+# Set RUN command
 #
 ENTRYPOINT fortune | cowsay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#ENTRYPOINT fortune | cowsay -f ninja
+#COPY ninja.cow /usr/share/cowsay/cows/ninja.cow
