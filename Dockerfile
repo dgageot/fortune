@@ -15,8 +15,8 @@ RUN apt-get update && apt-get install -y \
   cowsay \
   fortune
 
-ENV PATH:$PATH:/usr/games
+ENV PATH $PATH:/usr/games
 
 # Set RUN prefix command
 #
-ENTRYPOINT ["fortune | cowsay"]
+ENTRYPOINT fortune | cowsay
