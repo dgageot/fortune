@@ -3,6 +3,9 @@
 #
 # Run:
 #   docker run --rm -t dgageot/fortune
+#
+# COPY files/???.cow /usr/share/cowsay/cows/???.cow
+# ENTRYPOINT fortune | cowsay -f ???
 
 # DOCKER_VERSION 1.2
 
@@ -20,31 +23,3 @@ ENV PATH $PATH:/usr/games
 # Set RUN command
 #
 ENTRYPOINT fortune | cowsay
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#ENTRYPOINT fortune | cowsay -f ninja
-#COPY ninja.cow /usr/share/cowsay/cows/ninja.cow

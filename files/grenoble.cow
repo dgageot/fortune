@@ -1,0 +1,56 @@
+##
+## Cowth Alpes JUG, from david@gageot.net
+##
+$the_cow = <<EOC;
+            .......        $thoughts
+         ............       $thoughts
+         ....,.,,,,...       $thoughts
+        .,...,D888I,...
+        .,,.8OOOOOO88O.
+        .88OOOOOOOOOOO
+      .  OOOOOOOO=OOOO. .
+      .  OOOOOOOO+OOOO, .
+         8OOOOOO7IOOOO+ .
+         7OOOOO+OOO8OO7 .
+         .OOOZIOO?OOOOO .
+         .OO8?8O?D8OOO8 .
+         .OOO?DO??DO888                 ..:D7=ID...
+         .88OO?D8O?8888              ..O.NNN..ONN$.. ...
+          ~888O88D88888.        ?7I8=.7MNNNNI?NNNNDII?..+.
+         ..888888888888.       .NNNNNNNNNNNM.NINNDNIIIIII.
+         ..888888888888.       IMNDNNNNNNNNN7NNNII7IIIIIII?..
+         ..D88888888888.       .MNNNNNM. ......8IIDD88DM7....
+         . 8MMMMMMMMMDD+      ..MNNNN,.        ..ZIIIII,.
+          .8MDNNMMMMMMMM.     ..NNNNN.          .MNO8?...
+         . ~~~~~=.MMMMMM    . ..NNNNN,..      ..NN
+         ..=~~~~~= MMMMM ...?=..NNNNNND...  ..NDN.:MMM.
+         .~=~~~,:~=?MMMMNNNNNNNMMMMMMNNNNNNNNNNNMMMMM.
+         .=~~~~~=.MMMMMM~NNNNNNNMMNMMMNNNINM~:=~ MMMNM.
+          D~=~=~=.MMMMMM=~NNNNNNMMMMMMM~~~~~~~~~:MMMM...
+         .=~=~~, NMMMMMMZ=NNNNNNNNNNNNNN~~~~~~~=~INNNMMNM.
+          O~==~~8MNNNNNNM=NNNNNNNNNNNNNNO~~~~~~~:$NNNNNNN..
+           . NNNNNNNNNNNM~NNNNNNNNNNNNNNN=~~~~~  NNNNNNM.
+            .NNNNNNNNNNNN~NNNNNNDDDDDDDNN=~~~~=~DDNNNNDM.... ..
+            .NNNNNNNNNNNNDNNNNNDDDDDDDDNN=~~~~=MDDNNNNN~N=~.Z~,.
+            .NNNNNNNNNNNNNNNNND88888D8NNZ~~~~~.888NZ=~~==D8== ..
+            .NDDDDDDDDDDDNN~NN8888888NNN=~~~=~O888NM~~~~~~=~..
+            .NDDDDDDDDDDDNM...888888NNN=~~~~=Z8888NN~=~~=~...
+            .IDDDDDDDDDDDDNNNN8O8ODNNN+=~~~.$=. O8NM==:.$ .
+            .,DDDDDDDDDDDDNDM.OOONNNN~~~=,D==~7..I8   ..
+            .DDDDDDDDDDDDD$. +8NNNDN:~~~,.$=O7?.. I.
+              88888888888D?.MNNNNM.IIIN..  ..7IID........
+            ..888888888888D . ... .?7I,..   ..=I777Z88??N.
+             .8888888888888.......N7II+N.   .III7II7IDD$?..
+              8888888888888......D?II7II.   .78OZIIIIINI7M.
+             .8888888888888+.N7IIII$7IM..     ..NNDI7I7ND.
+             .O8888888888888III?IIZ7II:..      NNM...N?.=N .
+             .8OOOOOOOOOOOO8.I7I7IIIII=.   .. DNO.        D..
+              ZOOOOOOOOOOOOO..8ZMM+II$..   . NN.         ..M..
+               OOOOOOOOOOOO, .?N...M..    ..NN             .O
+               .8OOOOOOOOO,. M..   .. .  . NO.              . N.
+                .,OOOOOO.  .N .      . ...N:                   ~?.
+                   ......~D$.           .N~.                    .7$.. .  .
+                   ...?.NN.         . .8N8..                       ...,.~.
+                     DNDZ.        . ..N+.                             .
+                   .NNN.         ..D?.  .
+EOC
